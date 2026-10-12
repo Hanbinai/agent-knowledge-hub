@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="718" viewBox="0 0 900 718" role="img" aria-labelledby="title desc" xml:lang="zh-CN">
+<title id="title">知识沉淀与证据成熟度</title><desc id="desc">来源进入 Inbox，保留原始证据，再分别沉淀到 Work 与 Self，按权限取用上下文。L0 至 L5 逐步增加证据要求，Self 的 L3 及以上还需用户明确确认。</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M1 1 L6 4 L1 7" fill="none" stroke="#8092AA" stroke-width="1.5"/></marker></defs>
+<style>text{font-family:"Segoe UI","Microsoft YaHei","PingFang SC",sans-serif}</style>
+<rect x="1" y="1" width="898" height="716" rx="22" fill="#F8FAFD" stroke="#D9E3ED"/>
+<text x="32" y="40" font-size="16" font-weight="650" fill="#087E83" text-anchor="start">03  /  知识与信任</text>
+<text x="32" y="89" font-size="34" font-weight="700" fill="#172B4D" text-anchor="start">知识需要来源，也需要证据</text>
+<text x="32" y="121" font-size="20" font-weight="400" fill="#52657C" text-anchor="start">先保留来源，再按需整理、确认与验证。</text>
+<rect x="32" y="149" width="836" height="63" rx="12" fill="#EBF1FD" stroke="#CBDAF6"/>
+<text x="450" y="190" font-size="26" font-weight="600" fill="#245FD4" text-anchor="middle">想法 · 会话摘录 · 资料文本  →  Inbox 原始事件</text>
+<path d="M450 214 V234 H228 V257" fill="none" stroke="#8092AA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M450 234 H672 V257" fill="none" stroke="#8092AA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="32" y="268" width="392" height="170" rx="14" fill="#FFFFFF" stroke="#ABD0D0"/>
+<text x="54" y="305" font-size="30" font-weight="700" fill="#087E83" text-anchor="start">Work</text>
+<text x="54" y="341" font-size="22" font-weight="600" fill="#172B4D" text-anchor="start">项目 · 知识 · 决策</text>
+<text x="54" y="371" font-size="22" font-weight="400" fill="#52657C" text-anchor="start">任务 · 方法 · 复盘</text>
+<text x="54" y="409" font-size="19" font-weight="400" fill="#087E83" text-anchor="start">保留来源与关系，便于检索追溯</text>
+<rect x="476" y="268" width="392" height="170" rx="14" fill="#F7F3FD" stroke="#D5C8ED"/>
+<text x="498" y="305" font-size="28" font-weight="700" fill="#7357BC" text-anchor="start">受保护的 Self</text>
+<text x="498" y="341" font-size="22" font-weight="600" fill="#172B4D" text-anchor="start">原话 · 反思 · Agent 假设</text>
+<text x="498" y="371" font-size="20" font-weight="400" fill="#52657C" text-anchor="start">原件留在 Self，未确认保留 L1 / L2</text>
+<rect x="498" y="388" width="348" height="34" rx="8" fill="#FFF3D7" stroke="#E9CEA0"/>
+<text x="672" y="411" font-size="19" font-weight="650" fill="#A66A08" text-anchor="middle">L3+ 额外需要用户明确确认</text>
+<path d="M228 440 V465 H310 V485" fill="none" stroke="#8092AA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M672 440 V465 H590 V485" fill="none" stroke="#8092AA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="116" y="496" width="668" height="55" rx="12" fill="#172B4D" stroke="#172B4D"/>
+<text x="450" y="531" font-size="24" font-weight="600" fill="white" text-anchor="middle">权限过滤  →  组合当前任务需要的上下文</text>
+<text x="32" y="591" font-size="17" font-weight="650" fill="#52657C" text-anchor="start">知识成熟度 · 按证据逐步提升</text>
+<rect x="32" y="608" width="126" height="74" rx="10" fill="#FFFFFF" stroke="#D9E3ED"/>
+<text x="95" y="637" font-size="25" font-weight="700" fill="#245FD4" text-anchor="middle">L0</text>
+<text x="95" y="665" font-size="17" font-weight="500" fill="#172B4D" text-anchor="middle">原始证据</text>
+<path d="M162 645 H170" fill="none" stroke="#8092AA" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="174" y="608" width="126" height="74" rx="10" fill="#FFFFFF" stroke="#D9E3ED"/>
+<text x="237" y="637" font-size="25" font-weight="700" fill="#245FD4" text-anchor="middle">L1</text>
+<text x="237" y="665" font-size="17" font-weight="500" fill="#172B4D" text-anchor="middle">已捕获</text>
+<path d="M304 645 H312" fill="none" stroke="#8092AA" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="316" y="608" width="126" height="74" rx="10" fill="#FFFFFF" stroke="#D9E3ED"/>
+<text x="379" y="637" font-size="25" font-weight="700" fill="#245FD4" text-anchor="middle">L2</text>
+<text x="379" y="665" font-size="17" font-weight="500" fill="#172B4D" text-anchor="middle">已结构化</text>
+<path d="M446 645 H454" fill="none" stroke="#8092AA" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="458" y="608" width="126" height="74" rx="10" fill="#EAF4F2" stroke="#BCD9D3"/>
+<text x="521" y="637" font-size="25" font-weight="700" fill="#087E83" text-anchor="middle">L3</text>
+<text x="521" y="665" font-size="17" font-weight="500" fill="#172B4D" text-anchor="middle">验证 / 确认</text>
+<path d="M588 645 H596" fill="none" stroke="#8092AA" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="600" y="608" width="126" height="74" rx="10" fill="#EAF4F2" stroke="#BCD9D3"/>
+<text x="663" y="637" font-size="25" font-weight="700" fill="#087E83" text-anchor="middle">L4</text>
+<text x="663" y="665" font-size="17" font-weight="500" fill="#172B4D" text-anchor="middle">稳定原则</text>
+<path d="M730 645 H738" fill="none" stroke="#8092AA" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="742" y="608" width="126" height="74" rx="10" fill="#EAF4F2" stroke="#BCD9D3"/>
+<text x="805" y="637" font-size="25" font-weight="700" fill="#087E83" text-anchor="middle">L5</text>
+<text x="805" y="665" font-size="17" font-weight="500" fill="#172B4D" text-anchor="middle">可执行规程</text>
+<text x="450" y="705" font-size="17" font-weight="400" fill="#52657C" text-anchor="middle">字段与来源检查支持审查，真实有效性仍需验证。</text>
+</svg>

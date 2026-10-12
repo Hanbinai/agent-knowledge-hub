@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="698" viewBox="0 0 900 698" role="img" aria-labelledby="title desc" xml:lang="en">
+<title id="title">Project handoff loop</title><desc id="desc">A stable project baseline is retained separately while each task records changes, decisions, checks and open work. The next agent reads the same project state.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M1 1 L6 4 L1 7" fill="none" stroke="#8092AA" stroke-width="1.5"/></marker></defs>
+<style>text{font-family:"Segoe UI","Microsoft YaHei","PingFang SC",sans-serif}</style>
+<rect x="1" y="1" width="898" height="696" rx="22" fill="#F8FAFD" stroke="#D9E3ED"/>
+<text x="32" y="40" font-size="16" font-weight="650" fill="#087E83" text-anchor="start">02  /  PROJECT CONTINUITY</text>
+<text x="32" y="89" font-size="34" font-weight="700" fill="#172B4D" text-anchor="start">A new agent. The same project state.</text>
+<text x="32" y="121" font-size="20" font-weight="400" fill="#52657C" text-anchor="start">Read the baseline. Add a handoff after real work.</text>
+<rect x="32" y="149" width="836" height="75" rx="12" fill="#EBF1FD" stroke="#CBDAF6"/>
+<text x="54" y="182" font-size="22" font-weight="700" fill="#245FD4" text-anchor="start">STABLE BASELINE</text>
+<text x="54" y="208" font-size="20" font-weight="400" fill="#52657C" text-anchor="start">Goals · constraints · directories · lasting agreements</text>
+<rect x="32" y="261" width="376" height="138" rx="14" fill="#FFFFFF" stroke="#CCD9E7"/>
+<rect x="50" y="279" width="36" height="36" rx="9" fill="#087E83" stroke="#087E83"/>
+<text x="68" y="305" font-size="22" font-weight="700" fill="white" text-anchor="middle">1</text>
+<text x="100" y="305" font-size="23" font-weight="650" fill="#172B4D" text-anchor="start">Identify &amp; read</text>
+<text x="52" y="345" font-size="20" font-weight="400" fill="#52657C" text-anchor="start">Project + relevant handoffs</text>
+<text x="52" y="373" font-size="19" font-weight="400" fill="#52657C" text-anchor="start">Confirmed preferences, when allowed</text>
+<rect x="492" y="261" width="376" height="138" rx="14" fill="#FFFFFF" stroke="#CCD9E7"/>
+<rect x="510" y="279" width="36" height="36" rx="9" fill="#087E83" stroke="#087E83"/>
+<text x="528" y="305" font-size="22" font-weight="700" fill="white" text-anchor="middle">2</text>
+<text x="560" y="305" font-size="23" font-weight="650" fill="#172B4D" text-anchor="start">Execute &amp; validate</text>
+<text x="512" y="345" font-size="20" font-weight="400" fill="#52657C" text-anchor="start">Record what changed</text>
+<text x="512" y="373" font-size="19" font-weight="400" fill="#52657C" text-anchor="start">Retain success and failure evidence</text>
+<rect x="492" y="449" width="376" height="138" rx="14" fill="#FFFFFF" stroke="#CCD9E7"/>
+<rect x="510" y="467" width="36" height="36" rx="9" fill="#087E83" stroke="#087E83"/>
+<text x="528" y="493" font-size="22" font-weight="700" fill="white" text-anchor="middle">3</text>
+<text x="560" y="493" font-size="23" font-weight="650" fill="#172B4D" text-anchor="start">Save a checkpoint</text>
+<text x="512" y="533" font-size="20" font-weight="400" fill="#52657C" text-anchor="start">Changes · decisions · checks</text>
+<text x="512" y="561" font-size="19" font-weight="400" fill="#52657C" text-anchor="start">Open work and the next step</text>
+<rect x="32" y="449" width="376" height="138" rx="14" fill="#FFFFFF" stroke="#CCD9E7"/>
+<rect x="50" y="467" width="36" height="36" rx="9" fill="#087E83" stroke="#087E83"/>
+<text x="68" y="493" font-size="22" font-weight="700" fill="white" text-anchor="middle">4</text>
+<text x="100" y="493" font-size="23" font-weight="650" fill="#172B4D" text-anchor="start">The next agent continues</text>
+<text x="52" y="533" font-size="20" font-weight="400" fill="#52657C" text-anchor="start">Read the same project state</text>
+<text x="52" y="561" font-size="19" font-weight="400" fill="#52657C" text-anchor="start">Continue from the open work</text>
+<path d="M414 330 H482" fill="none" stroke="#8092AA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M680 406 V440" fill="none" stroke="#8092AA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M482 518 H418" fill="none" stroke="#8092AA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M220 440 V408" fill="none" stroke="#8092AA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="32" y="616" width="836" height="54" rx="12" fill="#EAF4F2" stroke="#C2DFD9"/>
+<text x="450" y="650" font-size="21" font-weight="550" fill="#165F58" text-anchor="middle">Baseline + task history · source agent · time · record ID</text>
+</svg>

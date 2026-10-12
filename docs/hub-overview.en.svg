@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="760" viewBox="0 0 900 760" role="img" aria-labelledby="title desc" xml:lang="en">
+<title id="title">Agent Knowledge Hub — capability map</title><desc id="desc">One local source for knowledge, project handoffs, personal principles, preferences, search and skill references.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M1 1 L6 4 L1 7" fill="none" stroke="#8092AA" stroke-width="1.5"/></marker></defs>
+<style>text{font-family:"Segoe UI","Microsoft YaHei","PingFang SC",sans-serif}</style>
+<rect x="1" y="1" width="898" height="758" rx="22" fill="#F8FAFD" stroke="#D9E3ED"/>
+<text x="32" y="40" font-size="16" font-weight="650" fill="#087E83" text-anchor="start">01  /  THE SHARED KNOWLEDGE LAYER</text>
+<text x="32" y="89" font-size="34" font-weight="700" fill="#172B4D" text-anchor="start">Knowledge your next agent can use</text>
+<text x="32" y="121" font-size="20" font-weight="400" fill="#52657C" text-anchor="start">Capture → organize → hand off → retrieve</text>
+<rect x="32" y="150" width="836" height="57" rx="14" fill="white" stroke="#D9E3ED"/>
+<text x="450" y="186" font-size="22" font-weight="600" fill="#172B4D" text-anchor="middle">Codex · Claude Code · Cursor · WorkBuddy · ZCode</text>
+<path d="M450 207 V235" fill="none" stroke="#8092AA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="32" y="246" width="836" height="392" rx="18" fill="#FFFFFF" stroke="#BCD1E7"/>
+<rect x="48" y="262" width="804" height="62" rx="12" fill="#172B4D" stroke="#172B4D"/>
+<text x="450" y="302" font-size="30" font-weight="700" fill="#FFFFFF" text-anchor="middle">Agent Knowledge Hub</text>
+<rect x="48" y="342" width="394" height="80" rx="10" fill="#F8FAFD" stroke="#E5ECF4"/>
+<rect x="62" y="359" width="40" height="44" rx="9" fill="#245FD4" stroke="#245FD4"/>
+<text x="82" y="389" font-size="23" font-weight="700" fill="#FFFFFF" text-anchor="middle">W</text>
+<text x="116" y="375" font-size="22" font-weight="650" fill="#172B4D" text-anchor="start">Work knowledge</text>
+<text x="116" y="401" font-size="17" font-weight="400" fill="#52657C" text-anchor="start">Notes · decisions · working methods</text>
+<rect x="458" y="342" width="394" height="80" rx="10" fill="#F8FAFD" stroke="#E5ECF4"/>
+<rect x="472" y="359" width="40" height="44" rx="9" fill="#7357BC" stroke="#7357BC"/>
+<text x="492" y="389" font-size="23" font-weight="700" fill="#FFFFFF" text-anchor="middle">S</text>
+<text x="526" y="375" font-size="22" font-weight="650" fill="#172B4D" text-anchor="start">Protected Self</text>
+<text x="526" y="401" font-size="17" font-weight="400" fill="#52657C" text-anchor="start">Reflections · confirmed principles</text>
+<rect x="48" y="436" width="394" height="80" rx="10" fill="#F8FAFD" stroke="#E5ECF4"/>
+<rect x="62" y="453" width="40" height="44" rx="9" fill="#087E83" stroke="#087E83"/>
+<text x="82" y="483" font-size="23" font-weight="700" fill="#FFFFFF" text-anchor="middle">P</text>
+<text x="116" y="469" font-size="22" font-weight="650" fill="#172B4D" text-anchor="start">Projects &amp; handoffs</text>
+<text x="116" y="495" font-size="17" font-weight="400" fill="#52657C" text-anchor="start">Baseline · evidence · next steps</text>
+<rect x="458" y="436" width="394" height="80" rx="10" fill="#F8FAFD" stroke="#E5ECF4"/>
+<rect x="472" y="453" width="40" height="44" rx="9" fill="#245FD4" stroke="#245FD4"/>
+<text x="492" y="483" font-size="23" font-weight="700" fill="#FFFFFF" text-anchor="middle">C</text>
+<text x="526" y="469" font-size="22" font-weight="650" fill="#172B4D" text-anchor="start">Preferences &amp; context</text>
+<text x="526" y="495" font-size="17" font-weight="400" fill="#52657C" text-anchor="start">Relevant · authorized · bounded</text>
+<rect x="48" y="530" width="394" height="80" rx="10" fill="#F8FAFD" stroke="#E5ECF4"/>
+<rect x="62" y="547" width="40" height="44" rx="9" fill="#087E83" stroke="#087E83"/>
+<text x="82" y="577" font-size="23" font-weight="700" fill="#FFFFFF" text-anchor="middle">R</text>
+<text x="116" y="563" font-size="22" font-weight="650" fill="#172B4D" text-anchor="start">Search &amp; relationships</text>
+<text x="116" y="589" font-size="17" font-weight="400" fill="#52657C" text-anchor="start">Find records and trace their history</text>
+<rect x="458" y="530" width="394" height="80" rx="10" fill="#F8FAFD" stroke="#E5ECF4"/>
+<rect x="472" y="547" width="40" height="44" rx="9" fill="#A66A08" stroke="#A66A08"/>
+<text x="492" y="577" font-size="23" font-weight="700" fill="#FFFFFF" text-anchor="middle">K</text>
+<text x="526" y="563" font-size="22" font-weight="650" fill="#172B4D" text-anchor="start">252 role-skill references</text>
+<text x="526" y="589" font-size="17" font-weight="400" fill="#52657C" text-anchor="start">Browse · inspect · save favorites</text>
+<path d="M450 638 V660" fill="none" stroke="#8092AA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="32" y="670" width="836" height="53" rx="12" fill="#EAF4F2" stroke="#C2DFD9"/>
+<text x="450" y="704" font-size="22" font-weight="550" fill="#165F58" text-anchor="middle">Markdown + JSON · rebuildable SQLite FTS</text>
+<text x="450" y="746" font-size="17" font-weight="400" fill="#52657C" text-anchor="middle">Local files · access-filtered · explicit agent reads and writes</text>
+</svg>

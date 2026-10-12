@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="718" viewBox="0 0 900 718" role="img" aria-labelledby="title desc" xml:lang="en">
+<title id="title">Knowledge and evidence lifecycle</title><desc id="desc">Capture source material, retain raw Inbox evidence, separate Work and Self, and retrieve authorized context. L0 through L5 have increasing evidence requirements; Self L3+ also needs explicit user confirmation.</desc>
+<defs><marker id="arrow" markerWidth="8" markerHeight="8" refX="6" refY="4" orient="auto"><path d="M1 1 L6 4 L1 7" fill="none" stroke="#8092AA" stroke-width="1.5"/></marker></defs>
+<style>text{font-family:"Segoe UI","Microsoft YaHei","PingFang SC",sans-serif}</style>
+<rect x="1" y="1" width="898" height="716" rx="22" fill="#F8FAFD" stroke="#D9E3ED"/>
+<text x="32" y="40" font-size="16" font-weight="650" fill="#087E83" text-anchor="start">03  /  KNOWLEDGE &amp; TRUST</text>
+<text x="32" y="89" font-size="34" font-weight="700" fill="#172B4D" text-anchor="start">Keep the source. Earn the conclusion.</text>
+<text x="32" y="121" font-size="20" font-weight="400" fill="#52657C" text-anchor="start">Capture first; organize and validate as needed.</text>
+<rect x="32" y="149" width="836" height="63" rx="12" fill="#EBF1FD" stroke="#CBDAF6"/>
+<text x="450" y="190" font-size="26" font-weight="600" fill="#245FD4" text-anchor="middle">Source material  →  Inbox / raw evidence</text>
+<path d="M450 214 V234 H228 V257" fill="none" stroke="#8092AA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M450 234 H672 V257" fill="none" stroke="#8092AA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="32" y="268" width="392" height="170" rx="14" fill="#FFFFFF" stroke="#ABD0D0"/>
+<text x="54" y="305" font-size="30" font-weight="700" fill="#087E83" text-anchor="start">Work</text>
+<text x="54" y="341" font-size="22" font-weight="600" fill="#172B4D" text-anchor="start">Projects · knowledge · decisions</text>
+<text x="54" y="371" font-size="22" font-weight="400" fill="#52657C" text-anchor="start">Tasks · methods · reviews</text>
+<text x="54" y="409" font-size="19" font-weight="400" fill="#087E83" text-anchor="start">Keep provenance and relationships</text>
+<rect x="476" y="268" width="392" height="170" rx="14" fill="#F7F3FD" stroke="#D5C8ED"/>
+<text x="498" y="305" font-size="28" font-weight="700" fill="#7357BC" text-anchor="start">Protected Self</text>
+<text x="498" y="341" font-size="20" font-weight="600" fill="#172B4D" text-anchor="start">Statements · reflections · hypotheses</text>
+<text x="498" y="371" font-size="20" font-weight="400" fill="#52657C" text-anchor="start">Original records remain in Self</text>
+<rect x="498" y="388" width="348" height="34" rx="8" fill="#FFF3D7" stroke="#E9CEA0"/>
+<text x="672" y="411" font-size="19" font-weight="650" fill="#A66A08" text-anchor="middle">L3+ needs user confirmation</text>
+<path d="M228 440 V465 H310 V485" fill="none" stroke="#8092AA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<path d="M672 440 V465 H590 V485" fill="none" stroke="#8092AA" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="116" y="496" width="668" height="55" rx="12" fill="#172B4D" stroke="#172B4D"/>
+<text x="450" y="531" font-size="24" font-weight="600" fill="white" text-anchor="middle">Access filter  →  context for the current task</text>
+<text x="32" y="591" font-size="17" font-weight="650" fill="#52657C" text-anchor="start">MATURITY · EVIDENCE REQUIREMENTS</text>
+<rect x="32" y="608" width="126" height="74" rx="10" fill="#FFFFFF" stroke="#D9E3ED"/>
+<text x="95" y="637" font-size="25" font-weight="700" fill="#245FD4" text-anchor="middle">L0</text>
+<text x="95" y="665" font-size="17" font-weight="500" fill="#172B4D" text-anchor="middle">Raw</text>
+<path d="M162 645 H170" fill="none" stroke="#8092AA" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="174" y="608" width="126" height="74" rx="10" fill="#FFFFFF" stroke="#D9E3ED"/>
+<text x="237" y="637" font-size="25" font-weight="700" fill="#245FD4" text-anchor="middle">L1</text>
+<text x="237" y="665" font-size="17" font-weight="500" fill="#172B4D" text-anchor="middle">Captured</text>
+<path d="M304 645 H312" fill="none" stroke="#8092AA" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="316" y="608" width="126" height="74" rx="10" fill="#FFFFFF" stroke="#D9E3ED"/>
+<text x="379" y="637" font-size="25" font-weight="700" fill="#245FD4" text-anchor="middle">L2</text>
+<text x="379" y="665" font-size="17" font-weight="500" fill="#172B4D" text-anchor="middle">Structured</text>
+<path d="M446 645 H454" fill="none" stroke="#8092AA" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="458" y="608" width="126" height="74" rx="10" fill="#EAF4F2" stroke="#BCD9D3"/>
+<text x="521" y="637" font-size="25" font-weight="700" fill="#087E83" text-anchor="middle">L3</text>
+<text x="521" y="665" font-size="17" font-weight="500" fill="#172B4D" text-anchor="middle">Validated</text>
+<path d="M588 645 H596" fill="none" stroke="#8092AA" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="600" y="608" width="126" height="74" rx="10" fill="#EAF4F2" stroke="#BCD9D3"/>
+<text x="663" y="637" font-size="25" font-weight="700" fill="#087E83" text-anchor="middle">L4</text>
+<text x="663" y="665" font-size="17" font-weight="500" fill="#172B4D" text-anchor="middle">Principle</text>
+<path d="M730 645 H738" fill="none" stroke="#8092AA" stroke-width="1.4" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow)"/>
+<rect x="742" y="608" width="126" height="74" rx="10" fill="#EAF4F2" stroke="#BCD9D3"/>
+<text x="805" y="637" font-size="25" font-weight="700" fill="#087E83" text-anchor="middle">L5</text>
+<text x="805" y="665" font-size="17" font-weight="500" fill="#172B4D" text-anchor="middle">Playbook</text>
+<text x="450" y="705" font-size="17" font-weight="400" fill="#52657C" text-anchor="middle">Structured evidence supports review; it does not prove effectiveness.</text>
+</svg>
